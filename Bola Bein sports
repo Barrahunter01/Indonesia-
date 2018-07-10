@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Beinsport 1HD
+rtmp://180.250.29.12:1935/jhos/beib1_5
+#EXTINF:-1,Beinsport 1SD 1
+rtmp://180.250.29.12:1935/jhos/beib1_1
+#EXTINF:-1,Beinsport 1SD 2
+rtmp://180.250.29.12:1935/jhos/beib1_2
+#EXTINF:-1,Beinsport 1SD 3 
+rtmp://180.250.29.12:1935/jhos/beib1_3 
+#EXTINF:-1,Beinsport 1SD 4 
+rtmp://180.250.29.12:1935/jhos/beib1_4
+#EXTINF:-1,Beinsport 2HD 
+rtmp://180.250.29.12:1935/jhos/beib2_5 
+#EXTINF:-1,Beinsport 2SD 1 
+rtmp://180.250.29.12:1935/jhos/beib2_1
+#EXTINF:-1,Beinsport 2SD 2 
+rtmp://180.250.29.12:1935/jhos/beib2_2 
+#EXTINF:-1,Beinsport 2SD 3 
+rtmp://180.250.29.12:1935/jhos/beib2_3
+#EXTINF:-1,Beinsport 2SD 4 
+rtmp://180.250.29.12:1935/jhos/beib2_4
+#EXTINF:-1,Beinsport 3HD 
+rtmp://180.250.29.12:1935/jhos/beib3_5
+#EXTINF:-1,Beinsport 3SD 1 
+rtmp://180.250.29.12:1935/jhos/beib3_1 
+#EXTINF:-1,Beinsport 3SD 2 
+rtmp://180.250.29.12:1935/jhos/beib3_2 
+#EXTINF:-1,Beinsport 3SD 3 
+rtmp://180.250.29.12:1935/jhos/beib3_3 
+#EXTINF:-1,Beinsport 3SD 4
+rtmp://180.250.29.12:1935/jhos/beib3_4 
